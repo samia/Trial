@@ -1,0 +1,64 @@
+<!-------------------------------------------------------------- K-12 -------------------------------------------------------->
+<!-- ReDSOFT-->
+<p>eLA has adapted a library of Learning Objects to comply with SCORM international standard enabling full reporting and tracking within Learning Management Systems.<br />
+View a <a href="http://demo.e-learningarabia.com/scorm/course/view.php?id=6" TARGET="_blank">demo sample</a> of the Adapted Learning Objects.</p>
+
+<!-------------------------------------------------------------- Higher Education-------------------------------------------------------->
+
+<!-- NYIT-->
+<p>eLA is currently working on customizing a new version of its Student Information System IrisSIS&trade; for NYIT Jordan Branch.<br />
+Request a demo on eLA’s IrisSIS&trade;: e-mail us at <a href="mailto:info@e-learningarabia.com?subject=Demo Request for eLA's IrisSIS&body=I would like to schedule a demo for your IrisSIS system.">info@e-learningarabia.com</a>.
+</p>
+
+<!-- MIT-->
+
+<p>eLA has developed a set of animations and simulations designed in coordination with two of the BLOSSOMS video math modules intended to supplement the ideas covered in the video lectures.<br />
+Have a look at the <a href="http://blossoms.mit.edu/video/larson2.html" TARGET="_blank">MIT's Simulations</a>.<br />
+eLA has also developed a full GUI for the delivery of these modules on DVDs or on the web in both Arabic and English with the inclusion of the Urdu platform.<br /> 
+View a demo sample of <a href="http://mit.e-learningarabia.com/MIT_DVD/" TARGET="_blank">MIT's GUI</a>.<br />
+In addition to the above, eLA is currently working on providing Arabic Video Voice-Over for MIT BLOSSOMS modules.</p>
+
+<!-- AOU-->
+<p>eLA developed a set of multimedia lectures used as support material for AOU courses in both Arabic and English.</p>
+
+<!-- JUST-->
+<p>eLA provided the Jordan University of Science and Technology (JUST) with a complete LMS solution in addition to content authoring and training services.</p>
+
+<!-- Mutah-->
+
+<p>eLA provided the Mutah University with a complete LMS solution in addition to content authoring and training services.<br />
+View a <a href="http://demo.e-learningarabia.com/mutah/course/view.php?id=8" TARGET="_blank">demo sample of the course</a>.</p>
+
+<!-- Sebai-->
+<p>eLA has developed a set of complete online courses for the Sebai Institutes aimed at promoting online learning for the Health Education diploma. eLA services not only included the transformation of available curricula to an online one; its services extended to include the instructional design, media production as well as the development of online interactive activities that best suit the newly online offering. In addition, eLA customized the learning environment to best suit its learners.</p>
+
+<!-------------------------------------------------------------- Corporate-------------------------------------------------------->
+
+<!-- Pearson-->
+<p>Pearson along with many partners has developed an online curriculum to strengthen Management and Business administration skills. We worked with Pearson to customize and localize the e-content to the Arabic speaking audience in the region. We also worked on translating the interface to Arabic and French on the adopted Learning Management System, Moodle.</p>
+
+<!-- Intel-->
+<p>Intel&reg; has developed the Intel&reg; Teach Program which helps teachers to be more effective educators through professional development focused on how to integrate technology into their lessons, promoting problem solving, critical thinking and collaboration skills among their students. With more than 6 million teachers trained in over 50 countries, Intel Teach is the largest, most successful program of its kind.<br />	
+Services provided by eLA included localization and Arabization of Intel&reg; Teach platform-Moodle for Egypt. Our services also covered right-to-left GUI adaptation.
+</p>
+
+<!-- Cisco-->
+
+<p>The Cisco Entrepreneur Institute is focused on fostering entrepreneurship around the globe. Working with local public and private sector organizations, Cisco’s mission is to help communities and nations harness the power of entrepreneurship for economic and social prosperity.<br />
+eLA developed a comprehensive online course for the benefit of Cisco academy. This course is devoted to introducing Moodle, the Institute’s Learning Management System, to Cisco facilitators allowing them to effectively use the wide spectrum of services provided by this leading platform.<br />
+View a <a href="http://demo.e-learningarabia.com/cisco/course/view.php?id=4" TARGET="_blank">demo sample of the course</a>.</p>
+
+<!-- EastNets-->
+<p>eLA provided EastNets&trade; with Voice-Over services for its e-Training courses</p>
+
+<!-------------------------------------------------------------- NGOs-------------------------------------------------------->
+
+<!-- CLIME-->
+
+<p>eLA has partnered with CLIME to develop a comprehensive project related to promoting political activism mainly targeting women in the region. The objective was to set up an online institute that allows potential activists within the MENA region to communicate and collaborate with each other and offer online courses that can help potential activists be familiar with the necessary concepts in order to be effective members in their community.<br />
+We at eLA set up, developed and customized the site for the institute by integrating both Joomla! Content Management System and Moodle Learning Management System. In addition, we designed and developed the e-content in the form of online courses to be delivered in various modes. We also provided training services and support services for the institute. The project was implemented in both English and Arabic. <br />
+The institute's site was listed as a finalist in the <a href="http://www.politicsonline.com/" TARGET="_blank">PoliticsOnline</a>'s annual "Top 10 Who Are Changing the World of Internet and Politics!" competition. .<br /> 
+Visit the <a href="http://www.activisminstitute.org/ " TARGET="_blank">Online Activism Institute</a>.</p>
+
+<!-- UNICEF-->
+<p>UNICEF recently adopted Crabgrass - an online communities system to be used for many initiatives including the ‘connecting classrooms’ initiative. The initiative is to serve the West Bank, Jordan and Iraq. We worked with UNICEF to localize and Arabize the interface for Crabgrass.</p>

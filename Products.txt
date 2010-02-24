@@ -1,0 +1,32 @@
+<!-- System Solutions ---------------------------------------------------------------------------->
+<!-- IrisSIS ----->
+eLA's Student Information System (IrisSIS&trade;) is a web-based platform facilitating different types of tasks and services related to registration, profiling, enrollment, curriculum management, grades, reporting as well as many other services. <br />
+IrisSIS&trade; meets accountability demands for the desired performance and attainment. In short, our easy-to-use and effective system helps educational institutions reduce the time spent on administrative tasks and allows educational institutions to concentrate on their true calling, boosting students’ achievements. <br />
+The Student Information System is designed to:<br />
+<ul>
+<li>Provide better, faster, and more accurate services to students, parents, faculty, staff, etc. </li>
+<li>Provide meaningful, consistent, and timely information to end users.</li>
+<li>Promote the vision of senior management and help address opportunities for change and development. </li>
+<li>Further increase efficiency by converting paper processes to more manageable and effective electronic form.</li>
+</ul>
+<br />
+Request a demo on eLA’s IrisSIS&trade;: e-mail us at <a href="mailto:info@e-learningarabia.com?subject=Demo Request for eLA's IrisSIS&body=I would like to schedule a demo for your IrisSIS system.">info@e-learningarabia.com</a>.
+
+<!-- Educational Products ---------------------------------------------------------------------------->
+<!-- eBook ----->
+The e-Book provides a comprehensive tool to display e-learning content in a book-like look and feel that allows for interactivity and . It offers a bi-lingual interface in both Arabic and English that allows for the following features: <br />
+<ul>
+<li>Multiple navigation options</li>
+<li>Auto-linking of glossary terms</li>
+<li>Display of multimedia such as animations, simulations, photo galleries, audio and video</li>
+<li>Interactive quizzes</li>
+<li>Adding and saving notes</li>
+<li>Searching and indexing of search results</li>
+<li>Printing</li>
+</ul>
+
+
+<!-- IMAGES ->
+/images/Products/eBook/Large/1.jpg
+/images/Products/eBook/Thumb/1.jpg
+/images/Products/eBook/Expand/1.jpg
